@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default revision="scarthgap" sync-j="4">
+
+    <remote name="yocto_project" fetch="https://git.yoctoproject.org">
+
+    <project name="meta-yocto" remote="yocto_project" path="sources/meta-yocto" revision="c7c38663a1cafb1fa8593c0b246811e51d3bbe20" upstream="scarthgap" />
+
+</manifest>
